@@ -1,0 +1,24 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spypr/Week-6-Day-3-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spypr/Week-6-Day-3-Lab/issues"
+  },
+  "homepage": "https://github.com/spypr/Week-6-Day-3-Lab#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
